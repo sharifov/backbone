@@ -1,0 +1,11 @@
+[07-Sep-2013 16:28:27] PHP Fatal error:  Class 'Controller' not found in /home/idealaz/public_html/editor/user_controller.php on line 3
+[07-Sep-2013 16:29:27] PHP Fatal error:  Class 'Controller' not found in /home/idealaz/public_html/editor/user_controller_old.php on line 3
+[07-Sep-2013 16:45:02] PHP Fatal error:  Class 'Controller' not found in /home/idealaz/public_html/editor/user_controller_old.php on line 3
+[20-Aug-2014 02:16:16 Asia/Baku] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[10-Feb-2015 12:50:11 UTC] PHP Fatal error:  Class 'Controller' not found in /home/idealaz/public_html/editor/user_controller.php on line 3
+[13-Feb-2015 07:01:54 UTC] PHP Fatal error:  Class 'Controller' not found in /home/idealaz/public_html/editor/user_controller.php on line 3
+[27-Feb-2015 07:14:51 UTC] PHP Fatal error:  Class 'Controller' not found in /home/idealaz/public_html/editor/user_controller.php on line 3

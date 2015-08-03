@@ -1,0 +1,3 @@
+[01-Jul-2015 14:05:53 UTC] PHP Notice:  Undefined variable: spaw_js_inc in /home/idealaz/public_html/editor/dialogs/dialog.php on line 44
+[06-Jul-2015 04:28:13 UTC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/idealaz/public_html/editor/plugins/spawfm/class/spawfm.class.php on line 511
+[06-Jul-2015 05:18:31 UTC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/idealaz/public_html/editor/plugins/spawfm/class/spawfm.class.php on line 511
